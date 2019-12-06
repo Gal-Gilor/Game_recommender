@@ -103,5 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# csv files
+# dataset files
 *.csv
+*.json
