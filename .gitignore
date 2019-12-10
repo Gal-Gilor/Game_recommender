@@ -106,3 +106,6 @@ venv.bak/
 # dataset files
 *.csv
 *.json
+
+# exe files
+*.exe
